@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "x",
+						"type": "uint256"
+					}
+				],
+				"name": "set",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"ch03/p8/SubcurrencyExample.sol": "SimpleStorage"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"ch03/p8/SubcurrencyExample.sol": {
+			"keccak256": "0x0beedbb55fa4305dfe5cdd3488312d5895f17ccc2bce2e659b32458bd139239c",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://9b146d49e0aeaae27c95a7918fa61bfc73c9ab472d9855d378020c5c86e818e2",
+				"dweb:/ipfs/QmYWacpTTpghTkx6L1F5NNJ1nsxnw1HMnQSp39JYoNNnuS"
+			]
+		}
+	},
+	"version": 1
+}
