@@ -149,11 +149,11 @@
 	},
 	"sources": {
 		"ch03/p8/SubcurrencyExample.sol": {
-			"keccak256": "0x3afd55c22f0b350692c0d40f3d1f77a8b56d739c301c6f8a6613259738f06979",
+			"keccak256": "0xf805af2f5dbe51707ae70ac73e3c9520aa3eaa8b10344b8ec02ec79ec9a1a791",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://ed086dc77156f9b4b216636dae21ab9b52e3047f88b225c77c92867c3d4bac11",
-				"dweb:/ipfs/QmS2HhNzpX4sqcY8HCxGMebNbjt1FxJuKHGH8zsPzWYe2b"
+				"bzz-raw://3f0fad6b1e9e115326503741169cadd1065ef44215821653e905f502fb8faf85",
+				"dweb:/ipfs/QmSc7CAkTA2NqrDdg7yrJVP1cM7GLqoMpR9Sm2Ubxj9GTn"
 			]
 		}
 	},

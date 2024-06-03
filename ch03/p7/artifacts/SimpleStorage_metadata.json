@@ -53,18 +53,19 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": false,
+			"enabled": true,
 			"runs": 200
 		},
-		"remappings": []
+		"remappings": [],
+		"viaIR": true
 	},
 	"sources": {
 		"ch03/p7/StorageExample.sol": {
-			"keccak256": "0xd97e71901434b84f17500398750ae271afc7c5f572db78683d82883dab0fc50e",
+			"keccak256": "0x1cc9d4d0dd859347184e41dc9c450c43a45cb84e28607f707f8d354dd42276f9",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://9619a1078aab9d50f2eb8c47edc16538c1f37fa18c18dc093ab75451e4d25fbe",
-				"dweb:/ipfs/QmZzv8yGDTkdGv5DMSDLJruLMZN2Z6wetk9Z846S5j2fV8"
+				"bzz-raw://5a169574158153741e2471cc2ca7a8ede841922b43361fc9c3664e103c233580",
+				"dweb:/ipfs/QmZBYHpooRM5ekVeBfaMGUbjusbxcZFMa7JhATad3E91Ee"
 			]
 		}
 	},

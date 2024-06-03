@@ -13,5 +13,6 @@ contract SimpleStorage {
     }
 }
 
+// Deploy on the sepolia testnet.
 // Contract Address:
 //   0x0F950b19F00b0d1CC7dbd3476DAAe55e59f3074e

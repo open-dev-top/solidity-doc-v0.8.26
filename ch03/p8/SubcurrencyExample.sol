@@ -39,3 +39,7 @@ contract Coin {
         emit Sent(msg.sender, receiver, amount);
     }
 }
+
+// Deploy on the sepolia testnet.
+// Contract Address:
+//   0x6FCAA35c813DbafF722230CE6eD5172575563545
